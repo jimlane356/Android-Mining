@@ -19,7 +19,7 @@ my start.sh to allow both a config.json (defaults to Vipor.net) or a config_solo
 
 ** Cloning and customizing**
 1. Clone this repo to your own github account. I copied an ARM optimized version of ccminer from Oink70.
-2. Download a QR Code Reader/Creator and create your own QR code for quicker installation per phone.
+2. Download a QR Code Reader/Creator and create your own QR code for quicker installation per device or cpu.
 3. I created my own start.sh which does not include a line allowing for an SSH Key. If you want to control your 
 cpus remotely, then you will need to add lines of programming to that affect. Visit https://Oink70/Android-Mining/ and 
 check out the readme file. Read it thoroughly regarding SSH.
