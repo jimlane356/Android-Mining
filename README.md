@@ -23,7 +23,7 @@ my start.sh to allow both a config.json (defaults to Vipor.net) or a config_solo
 3. I created my own start.sh which does not include a line allowing for an SSH Key. If you want to control your 
 cpus remotely, then you will need to add lines of programming to that affect. Visit https://Oink70/Android-Mining/ and 
 check out the readme file. Read it thoroughly regarding SSH.
-4. Adjust the ‘config.json’ to your address, port, etc.
+4. Adjust the ‘config.json’ to your pool address, port, etc.
 5. Adjust the ‘config_solo.json’ to your solo pool address, port, etc.
 
 *** Disclaimer***
