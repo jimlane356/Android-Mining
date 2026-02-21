@@ -14,7 +14,7 @@ no difference in payouts.
 
 At the time of this writing, the reward is 3 VRSC per block.
 
-Out of frustration of no solo mining support, I have created my own solo pool. I have built a flexibility into 
+Out of frustration of no solo mining support, I have created my own solo pool. I have built flexibility into 
 my start.sh to allow both a config.json (defaults to Vipor.net) or a config_solo.json which references my personal pool. 
 
 ** Cloning and customizing**
