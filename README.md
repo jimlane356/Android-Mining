@@ -2,7 +2,7 @@
 Currrent ccminer, my configs + pool/solo scripts, install command
 
 ** Pool and Solo Mining Verus on Android Phones **
-Easily switch between Pool and Solo Mining on your phone with simple commands.
+Easily switch between Pool and Solo Mining on your farm with simple commands.
 
 This was created out of frustration of not being able to solo mine Verus. Luckpool has "Hybrid" mining but 
 if you have enough hashrate to mine several coins per week, the additional reward is not worth it. You can 
